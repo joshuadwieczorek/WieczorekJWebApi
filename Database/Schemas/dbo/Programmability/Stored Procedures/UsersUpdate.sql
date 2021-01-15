@@ -20,7 +20,7 @@ BEGIN
 				ELSE @UpdatedBy
 			END
 		),
-		@UpdatedBy = (
+		@UpdatedAt = (
 			CASE 
 				WHEN (@UpdatedAt IS NULL)
 					THEN GETDATE()
