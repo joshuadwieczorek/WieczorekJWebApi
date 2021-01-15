@@ -1,0 +1,14 @@
+C:\Users\joshu\Desktop\Wieczorek.J.WebApi\WebApi.Library\bin\Debug\netcoreapp3.1\Global.Library.dll
+C:\Users\joshu\Desktop\Wieczorek.J.WebApi\WebApi.Library\bin\Debug\netcoreapp3.1\WebApi.Domain.dll
+C:\Users\joshu\Desktop\Wieczorek.J.WebApi\WebApi.Library\obj\Debug\netcoreapp3.1\WebApi.Library.csprojAssemblyReference.cache
+C:\Users\joshu\Desktop\Wieczorek.J.WebApi\WebApi.Library\obj\Debug\netcoreapp3.1\WebApi.Library.AssemblyInfoInputs.cache
+C:\Users\joshu\Desktop\Wieczorek.J.WebApi\WebApi.Library\obj\Debug\netcoreapp3.1\WebApi.Library.AssemblyInfo.cs
+C:\Users\joshu\Desktop\Wieczorek.J.WebApi\WebApi.Library\obj\Debug\netcoreapp3.1\WebApi.Library.csproj.CoreCompileInputs.cache
+C:\Users\joshu\Desktop\Wieczorek.J.WebApi\WebApi.Library\bin\Debug\netcoreapp3.1\WebApi.Library.deps.json
+C:\Users\joshu\Desktop\Wieczorek.J.WebApi\WebApi.Library\bin\Debug\netcoreapp3.1\WebApi.Library.dll
+C:\Users\joshu\Desktop\Wieczorek.J.WebApi\WebApi.Library\bin\Debug\netcoreapp3.1\WebApi.Library.pdb
+C:\Users\joshu\Desktop\Wieczorek.J.WebApi\WebApi.Library\bin\Debug\netcoreapp3.1\WebApi.Domain.pdb
+C:\Users\joshu\Desktop\Wieczorek.J.WebApi\WebApi.Library\bin\Debug\netcoreapp3.1\Global.Library.pdb
+C:\Users\joshu\Desktop\Wieczorek.J.WebApi\WebApi.Library\obj\Debug\netcoreapp3.1\WebApi.Library.csproj.CopyComplete
+C:\Users\joshu\Desktop\Wieczorek.J.WebApi\WebApi.Library\obj\Debug\netcoreapp3.1\WebApi.Library.dll
+C:\Users\joshu\Desktop\Wieczorek.J.WebApi\WebApi.Library\obj\Debug\netcoreapp3.1\WebApi.Library.pdb

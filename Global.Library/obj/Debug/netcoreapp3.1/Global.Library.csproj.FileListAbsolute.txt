@@ -1,0 +1,9 @@
+C:\Users\joshu\Desktop\Wieczorek.J.WebApi\Global.Library\obj\Debug\netcoreapp3.1\Global.Library.csprojAssemblyReference.cache
+C:\Users\joshu\Desktop\Wieczorek.J.WebApi\Global.Library\obj\Debug\netcoreapp3.1\Global.Library.AssemblyInfoInputs.cache
+C:\Users\joshu\Desktop\Wieczorek.J.WebApi\Global.Library\obj\Debug\netcoreapp3.1\Global.Library.AssemblyInfo.cs
+C:\Users\joshu\Desktop\Wieczorek.J.WebApi\Global.Library\obj\Debug\netcoreapp3.1\Global.Library.csproj.CoreCompileInputs.cache
+C:\Users\joshu\Desktop\Wieczorek.J.WebApi\Global.Library\bin\Debug\netcoreapp3.1\Global.Library.deps.json
+C:\Users\joshu\Desktop\Wieczorek.J.WebApi\Global.Library\bin\Debug\netcoreapp3.1\Global.Library.dll
+C:\Users\joshu\Desktop\Wieczorek.J.WebApi\Global.Library\bin\Debug\netcoreapp3.1\Global.Library.pdb
+C:\Users\joshu\Desktop\Wieczorek.J.WebApi\Global.Library\obj\Debug\netcoreapp3.1\Global.Library.dll
+C:\Users\joshu\Desktop\Wieczorek.J.WebApi\Global.Library\obj\Debug\netcoreapp3.1\Global.Library.pdb
